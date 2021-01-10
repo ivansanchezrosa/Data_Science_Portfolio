@@ -12,3 +12,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Machine Learning
    
+ - [ML Supervised Boston Houses](https://github.com/ivansanchezrosa/Data_Science_Portfolio/blob/main/Machine%20Learning/Boston-Houses/ML_Boston_Houses_Prices.ipynb):In this project our objective is create a model using linear regression to predict the houses price. 
